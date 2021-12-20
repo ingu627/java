@@ -1,3 +1,4 @@
+package jump_to_java;
 public class HouseDog extends Dog{
     public HouseDog(String name) {
         this.setName(name);
