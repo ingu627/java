@@ -1,4 +1,4 @@
-public class hello {
+public class hello_6 {
     public static void main(String[] args) {
         char var1 = '9';
         String var2 = "Hi my name is poeun";
