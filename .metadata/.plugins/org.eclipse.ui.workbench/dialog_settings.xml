@@ -2,4 +2,12 @@
 <section name="Workbench">
 	<section name="NewWizardAction">
 	</section>
+	<section name="ImportExportAction">
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="ZipFileExportWizard">
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
 </section>
