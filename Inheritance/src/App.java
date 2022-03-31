@@ -15,9 +15,15 @@ public class App {
 
     public static void main(String[] args){
 
-        Student s = new Student(26, "Kevin", "MIT");
+        Student s = new Student(20, "poeun", "LaLa univ");
         s.showStudent();
-        s.showAge();
+        /*
+        Student name: poeun
+        Age: 20
+        University: LaLa univ
+         */
+        s.showAge(); //Age is 20
+
 
     }
 }

@@ -15,13 +15,13 @@ public class App {
     public static void main(String[] args) {
 
         Student s = new Student();
-        s.setAge(25);
-        s.setName("Kevin");
-        s.setUniversity("MIT");
+        s.setAge(20);
+        s.setName("poeun");
+        s.setUniversity("LaLa Univ");
 
-        System.out.println(s.getAge());
-        System.out.println(s.getName());
-        System.out.println(s.getUniversity());
+        System.out.println(s.getAge()); //20
+        System.out.println(s.getName()); //poeun
+        System.out.println(s.getUniversity()); //LaLa Univ
 
     }
 }

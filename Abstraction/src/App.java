@@ -16,8 +16,10 @@ public class App {
 
     public static void main(String[] args) {
 
-        Shape shape = new Rectangle();
-        shape.calculateArea();
+        Shape shape1 = new Circle();
+        Shape shape2 = new Rectangle();
+        shape1.calculateArea();
+        shape2.calculateArea();
     }
 
 }
