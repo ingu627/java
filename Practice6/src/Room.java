@@ -21,14 +21,6 @@ public class Room {
 		return sum;
 	}
 
-
-
-	public void setSum(double sum) {
-		this.sum = sum;
-	}
-
-
-
 	public void show() {
 		String bar = "-";
 		System.out.println(bar.repeat(14));
@@ -37,12 +29,18 @@ public class Room {
 	}
 	
 	public double monthlyRentScore() {
-		if (this.monthlyRent < 50) {
+		if (this.monthlyRent < 40) {
 			return 4;
 			}
-		else {
+		else if (this.monthlyRent >= 40 && this.monthlyRent < 60) {
+			return 3;
+		}
+		else if (this.monthlyRent>=60) {
 			return 2;
 			}
+		else {
+			return 0;
+		}
 		}
 	
 	public double areaScore() {
