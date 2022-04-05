@@ -8,7 +8,7 @@ public class OneRoom extends Room {
 	}
 	
 	@Override
-	public void roomScore() {
+	public void showRoomScoreInformation() {
 		System.out.printf("(%s) OneRoom Score: %.1f%n",this.name, this.sum);
 	}
 	

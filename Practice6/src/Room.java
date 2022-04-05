@@ -1,7 +1,7 @@
 
 public class Room {
 	protected String name;
-	protected double monthlyRent;
+	private double monthlyRent;
 	private double area;
 	private int option;
 	private String local;
@@ -21,12 +21,18 @@ public class Room {
 		return sum;
 	}
 
-	public void show() {
+	@Override
+	public String toString() {
 		String bar = "-";
-		System.out.println(bar.repeat(14));
-		System.out.printf("Room: %s%nMonthly Rent: %.2f%nArea: %s%nOption: %d%nLocal: %s%n", this.name, this.monthlyRent, this.area, this.option, this.local);
-		System.out.println(bar.repeat(14));
+		return bar.repeat(14) + 
+				"\nRoom: " + this.name + 
+				"\nMonthly Rent: " + this.monthlyRent +
+				"\nArea: " + this.area +
+				"\nOption: " + this.option + 
+				"\nLocal: " + this.local + 
+				"\n" + bar.repeat(14);
 	}
+
 	
 	public double monthlyRentScore() {
 		if (this.monthlyRent < 40) {
@@ -44,13 +50,13 @@ public class Room {
 		}
 	
 	public double areaScore() {
-		if (this.area == 25.5) {
+		if (this.area >= 25.5 && this.area < 35.6) {
 			return 1;
 		}
-		else if (this.area == 35.6) {
+		else if (this.area >= 35.6 && this.area < 45.7) {
 			return 2;
 		}
-		else if (this.area == 45.7) {
+		else if (this.area >= 45.7) {
 			return 3;
 		}
 		else {
@@ -76,7 +82,7 @@ public class Room {
 	}
 	
 	
-	public void roomScore() {
+	public void showRoomScoreInformation() {
 		System.out.printf("(%s) roomScore: %.1f%n",this.name, this.sum);
 	}
 	
