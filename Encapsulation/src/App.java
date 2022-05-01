@@ -14,14 +14,21 @@ public class App {
 
     public static void main(String[] args) {
 
-        Student s = new Student();
-        s.setAge(20);
-        s.setName("poeun");
-        s.setUniversity("LaLa Univ");
+//        Student s = new Student();
+//        s.setAge(20);
+//        s.setName("poeun");
+//        s.setUniversity("LaLa Univ");
+//
+//        System.out.println(s.getAge()); //20
+//        System.out.println(s.getName()); //poeun
+//        System.out.println(s.getUniversity()); //LaLa Univ
 
-        System.out.println(s.getAge()); //20
-        System.out.println(s.getName()); //poeun
-        System.out.println(s.getUniversity()); //LaLa Univ
+        Person p1 = new Person();
+        p1.setAge(-10);
+        p1.setName("Adam");
+
+        System.out.println(p1);
+
 
     }
 }
