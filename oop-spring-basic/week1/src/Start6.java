@@ -4,9 +4,13 @@ public class Start6 extends Thread{
     public static void main(String[] args) {
         Start6 t1 = new Start6();
         Start6 t2 = new Start6();
+        Start6 t3 = new Start6();
+        Start6 t4 = new Start6();
 
         t1.start();
         t2.start();
+        t3.start();
+        t4.start();
     }
 
     public void run() {
