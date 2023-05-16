@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52bdfd69-2a15-4992-88aa-8336eac6db43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop-spring-basic/week1/week1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../oop-spring-basic/week1/week1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop-spring-basic/week3/week3.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../oop-spring-basic/week3/week3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/Lab02_202224205.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../oop-spring-basic/week5-lambda/week5-lambda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/src/답지/Score.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/src/답지/Score2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/src/정현석.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/Lab02_202224205/src/정현석2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/TestWeek2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/TestWeek2/src/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/WEEK2/WEEK2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/WEEK2/src/정현석.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oop2023/oop3Test/oop3Test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2PsRnXlxqcmMSED8OUjbjzrQ9x2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52bdfd69-2a15-4992-88aa-8336eac6db43" name="Changes" comment="" />
+      <created>1684243973928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684243973928</updated>
+      <workItem from="1684243975097" duration="670000" />
+      <workItem from="1684244670302" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
