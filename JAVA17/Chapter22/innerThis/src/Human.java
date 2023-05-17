@@ -11,8 +11,12 @@ public class Human {
             this.family = family;
         }
 
-        void outAge() {
-            System.out.println("저는 " + age + "살 입니다.");
+        void outName() {
+            Util.outName(this);
+        }
+
+        void outWho() {
+            Util.outHuman(Human.this);
         }
     }
 
@@ -22,6 +26,6 @@ public class Human {
     }
 
     void intro() {
-        System.out.println("안녕." + age + " 살" + name.family + name.first + " 입니다.");
+        System.out.println("안녕." + age + "살" + name.family + name.first + "입니다.");
     }
 }

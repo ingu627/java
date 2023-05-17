@@ -2,17 +2,13 @@ public class Human {
     int age;
     Name name;
 
-    class Name {
+    static class Name {
         String first;
         String family;
 
         Name(String first, String family) {
             this.first = first;
             this.family = family;
-        }
-
-        void outAge() {
-            System.out.println("저는 " + age + "살 입니다.");
         }
     }
 
@@ -22,6 +18,6 @@ public class Human {
     }
 
     void intro() {
-        System.out.println("안녕." + age + " 살" + name.family + name.first + " 입니다.");
+        System.out.println("안녕." + age + "살 " + name.family + name.first + "입니다.");
     }
 }
