@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java17.iml" filepath="$PROJECT_DIR$/.idea/Java17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/abstract/abstract.iml" filepath="$PROJECT_DIR$/Chapter13/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22/anonclass/anonclass.iml" filepath="$PROJECT_DIR$/Chapter22/anonclass/anonclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22/innerThis/innerThis.iml" filepath="$PROJECT_DIR$/Chapter22/innerThis/innerThis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22/innerclass2/innerclass2.iml" filepath="$PROJECT_DIR$/Chapter22/innerclass2/innerclass2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22/innerinterface/innerinterface.iml" filepath="$PROJECT_DIR$/Chapter22/innerinterface/innerinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22/localclass/localclass.iml" filepath="$PROJECT_DIR$/Chapter22/localclass/localclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/multiherit/multiherit.iml" filepath="$PROJECT_DIR$/Chapter13/multiherit/multiherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22/staticinner/staticinner.iml" filepath="$PROJECT_DIR$/Chapter22/staticinner/staticinner.iml" />
+    </modules>
+  </component>
+</project>

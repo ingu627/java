@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd22844-5ad4-4d50-ab7b-5b0774128904" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA17/Chapter22/cha22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-spring-basic/week1/week1.md" beforeDir="false" afterPath="$PROJECT_DIR$/oop-spring-basic/week1/week1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-spring-basic/week3/week3.md" beforeDir="false" afterPath="$PROJECT_DIR$/oop-spring-basic/week3/week3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/Lab02_202224205.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/답지/Score.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/답지/Score2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/정현석.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/정현석2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/TestWeek2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/src/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/WEEK2/WEEK2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/WEEK2/src/정현석.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2023/oop3Test/oop3Test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2PBEsqZdRU91mGPD60pocBNI1sr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hyunseokjung/Github/java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd22844-5ad4-4d50-ab7b-5b0774128904" name="Changes" comment="" />
+      <created>1682922283430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682922283430</updated>
+      <workItem from="1682922285058" duration="168000" />
+      <workItem from="1682925560960" duration="132000" />
+      <workItem from="1683997234094" duration="2850000" />
+      <workItem from="1684220447861" duration="4626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
