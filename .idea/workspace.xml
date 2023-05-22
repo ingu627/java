@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bd22844-5ad4-4d50-ab7b-5b0774128904" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA17/Chapter22/cha22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-spring-basic/week1/week1.md" beforeDir="false" afterPath="$PROJECT_DIR$/oop-spring-basic/week1/week1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-spring-basic/week3/week3.md" beforeDir="false" afterPath="$PROJECT_DIR$/oop-spring-basic/week3/week3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/Lab02_202224205.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/답지/Score.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/답지/Score2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/정현석.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/Lab02_202224205/src/정현석2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA17/Chapter22/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/TestWeek2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/TestWeek2/src/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/WEEK2/WEEK2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/WEEK2/src/정현석.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop2023/oop3Test/oop3Test.iml" beforeDir="false" />
+    <list default="true" id="9bd22844-5ad4-4d50-ab7b-5b0774128904" name="Changes" comment="Change Folder_name : JAVA17 -&gt; Java17">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +50,18 @@
       <workItem from="1682925560960" duration="132000" />
       <workItem from="1683997234094" duration="2850000" />
       <workItem from="1684220447861" duration="4626000" />
+      <workItem from="1684330086552" duration="90000" />
+      <workItem from="1684550930097" duration="19000" />
+      <workItem from="1684680800756" duration="113000" />
     </task>
+    <task id="LOCAL-00001" summary="Change Folder_name : JAVA17 -&gt; Java17">
+      <created>1684330139615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684330139615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change Folder_name : JAVA17 -&gt; Java17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Folder_name : JAVA17 -&gt; Java17" />
   </component>
 </project>
